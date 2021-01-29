@@ -94,6 +94,17 @@ ipython_config.py
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
 
+# project data
+dev_graph-ad/ad_paper
+dev_graph-ad/statistics/fig/
+dev_graph-ad/papers/
+dev_graph-ad/code/INPUT_DATA/
+dev_graph-ad/code/pkl/
+dev_graph-ad/code/gif
+dev_graph-ad/dev_graph-ad/code/tools/pkl/
+dev_graph-ad/dev_graph-ad/code/tools/operation_research_results/
+dev_graph-ad/dev_graph-ad/code/operation_research_results/
+
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
